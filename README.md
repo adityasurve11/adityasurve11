@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aditya Surve</h1>
+<h1 align="center">Hey, I'm Aditya Surve ;⁠)</h1>
 <h3 align="center">Aspiring Cyber Security Engineer from India</h3>
 <img align="right" alt="Coding" WIDTH="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
